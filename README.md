@@ -1,4 +1,3 @@
-# -Employee-Attrition-Analysis-using-EDA
 # HR Analytics: EDA on Employee Attrition
 
 ## 📌 Project Objective
@@ -10,14 +9,14 @@ To explore and analyze HR data to identify key factors contributing to employee 
 
 ## 🔧 Tools Used
 - Python
-- Pandas, NumPy
+- Pandas
 - Matplotlib, Seaborn
 
 ## 📊 Key Analyses
-- Univariate and Bivariate Explorations
 - Descriptive Statistics
+- Univariate and Bivariate Explorations
 - Correlation Heatmaps
-- Visualization of attrition trends by department, job role, income, and more
+- Visualization of attrition trends by gender, department, job role, income, and more
 
 ## 🔍 Key Insights
 - Higher attrition observed among younger employees and those doing overtime
@@ -26,7 +25,3 @@ To explore and analyze HR data to identify key factors contributing to employee 
 
 ## 📌 Outcome
 This EDA project provided HR teams with evidence-based insights to address attrition through better policies around overtime and employee satisfaction.
-
-## ✅ Future Scope
-- Build a predictive model to forecast which employees are at risk of leaving
-- Perform department-specific retention strategy analysis
