@@ -26,4 +26,4 @@ To explore and analyze HR data to identify key factors contributing to employee 
 - Work-Life Balance and overtime hours were also found to influence attrition directly
 
 ## 📌 Outcome
-This EDA project provided HR teams with evidence-based insights to address attrition through better policies around overtime and employee satisfaction.
+Based on the findings, I proposed HR-focused strategies such as revisiting promotion timelines, improving employee engagement in specific roles, and enhancing work-life balance. This project not only strengthened my data analysis and storytelling skills but also gave me a deeper understanding of how data can drive HR decision-making.
