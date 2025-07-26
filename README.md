@@ -19,9 +19,11 @@ To explore and analyze HR data to identify key factors contributing to employee 
 - Visualization of attrition trends by gender, department, job role, income, and more
 
 ## 🔍 Key Insights
+- Departments like "Sales" and "Human Resources" and in Job Roles "Sales Representative" have higher attrition rates
 - Higher attrition observed among younger employees and those doing overtime
-- Job roles like Sales Executive had higher turnover rates
-- Work-life balance and job satisfaction strongly impacted attrition
+- Employees with Bad Environment and Job Satisfaction were more likely to leave
+- Employees with lower monthly income and fewer years since last promotion also showed higher turnover trends
+- Work-Life Balance and overtime hours were also found to influence attrition directly
 
 ## 📌 Outcome
 This EDA project provided HR teams with evidence-based insights to address attrition through better policies around overtime and employee satisfaction.
